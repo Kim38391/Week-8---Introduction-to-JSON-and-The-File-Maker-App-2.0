@@ -18,7 +18,7 @@ New features added:
 
 ## Project Structure
 
-### 📁 ChronoVaultApp
+### 📁 File Maker
 
 Contains the main application files and source code for the ChronoVault project.
 
