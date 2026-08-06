@@ -51,10 +51,6 @@ Contains screenshots showing:
 * JSON output
 * Project testing evidence
 
-### 📁 Testing
-
-Contains testing information and project submission materials.
-
 ### 📄 jsonData.json
 
 Contains saved project information created through JSON serialization.
